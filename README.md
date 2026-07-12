@@ -22,6 +22,12 @@ The archive is organized as follows:
 
 Files in `log/` and `lost-world/` generally follow `YYYY-MM-DD-title.md`. Older works without an exact date may use `YYYY-title.md`. Files in `observations/` follow `NNNN-title.md`, with the date recorded at the end of each entry. Read chronologically to follow the changelog, or browse by form and subject. Earlier entries remain part of the archive; new understanding is added rather than written over them.
 
+### Changelog
+
+The current version is **V0.1 — Initial Archive**. It establishes the first Snoop repository structure, adds `observations/` for direct experience records, and makes `lost-world/` an independent archive category. Creative works, observations, and lost worlds are preserved as separate forms of records.
+
+See [ChangeLog.md](ChangeLog.md) for the full bilingual changelog.
+
 ---
 
 ## 中文
@@ -45,3 +51,9 @@ Files in `log/` and `lost-world/` generally follow `YYYY-MM-DD-title.md`. Older 
 `log/` 和 `lost-world/` 中的文件通常使用 `YYYY-MM-DD-title.md` 命名；没有准确日期的旧作可以使用 `YYYY-title.md`。
 
 `observations/` 中的文件使用 `NNNN-title.md` 命名，日期记录在每篇正文末尾。可以按时间阅读，观察这份记录如何演变；也可以按文体与主题浏览。旧记录不会被新的理解覆盖，变化本身就是档案的一部分。
+
+### 更新日志
+
+当前版本为 **V0.1 — 初始档案**。该版本建立了 Snoop / 思脑谱 的初始仓库结构，新增 `observations/` 用于保存直接体验与观察记录，并将 `lost-world/` 设为独立的档案类别。创作作品、观察记录以及消失的世界作为不同类型的记录形式分别保存。
+
+完整的中英文更新日志请见 [ChangeLog.md](ChangeLog.md)。

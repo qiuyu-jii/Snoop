@@ -17,7 +17,7 @@ The archive is organized as follows:
 - `log/prose/` — prose, nonfiction, and literary writing
 - `log/poems/` — poems and lyrics
 - `observations/` — numbered observations recorded over time
-- `lost-world/` — places, people, and worlds that no longer exist in reality but remain in memory
+- `lost-world/` — places, people, and worlds that no longer exist in reality but remain in memory; see the [Lost World introduction](lost-world/lost-world-README.md)
 - `assets/` — supporting media and other assets
 
 Files in `log/` and `lost-world/` generally follow `YYYY-MM-DD-title.md`. Older works without an exact date may use `YYYY-title.md`. Files in `observations/` follow `NNNN-title.md`, with the date recorded at the end of each entry. Read chronologically to follow the changelog, or browse by form and subject. Earlier entries remain part of the archive; new understanding is added rather than written over them.
@@ -45,7 +45,7 @@ See [ChangeLog.md](ChangeLog.md) for the full bilingual changelog.
 - `log/prose/` — 散文、非虚构叙事与文学性文本
 - `log/poems/` — 诗歌与歌词
 - `observations/` — 按编号累积的观察记录
-- `lost-world/` — 现实中已经不存在、但仍存在于记忆中的人、空间与世界
+- `lost-world/` — 现实中已经不存在、但仍存在于记忆中的人、空间与世界；详见 [消逝世界说明](lost-world/lost-world-README.md)
 - `assets/` — 配套媒体与其他资源
 
 `log/` 和 `lost-world/` 中的文件通常使用 `YYYY-MM-DD-title.md` 命名；没有准确日期的旧作可以使用 `YYYY-title.md`。

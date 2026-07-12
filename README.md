@@ -42,4 +42,6 @@ Files in `log/` and `lost-world/` generally follow `YYYY-MM-DD-title.md`. Older 
 - `lost-world/` — 现实中已经不存在、但仍存在于记忆中的人、空间与世界
 - `assets/` — 配套媒体与其他资源
 
-`log/` 和 `lost-world/` 中的文件通常使用 `YYYY-MM-DD-title.md` 命名；没有准确日期的旧作可以使用 `YYYY-title.md`。`observations/` 中的文件使用 `NNNN-title.md` 命名，日期记录在每篇正文末尾。可以按时间阅读，观察这份记录如何演变；也可以按文体与主题浏览。旧记录不会被新的理解覆盖，变化本身就是档案的一部分。
+`log/` 和 `lost-world/` 中的文件通常使用 `YYYY-MM-DD-title.md` 命名；没有准确日期的旧作可以使用 `YYYY-title.md`。
+
+`observations/` 中的文件使用 `NNNN-title.md` 命名，日期记录在每篇正文末尾。可以按时间阅读，观察这份记录如何演变；也可以按文体与主题浏览。旧记录不会被新的理解覆盖，变化本身就是档案的一部分。

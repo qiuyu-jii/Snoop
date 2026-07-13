@@ -16,7 +16,7 @@ The archive is organized as follows:
 - `log/essays/` — structured arguments and longer reflections
 - `log/prose/` — prose, nonfiction, and literary writing
 - `log/poems/` — poems and lyrics
-- `observations/` — numbered observations recorded over time
+- `observations/` — clear, accessible records of direct experience, numbered over time
 - `lost-world/` — places, people, and worlds that no longer exist in reality but remain in memory; see the [Lost World introduction](lost-world/lost-world-README.md)
 - `assets/` — supporting media and other assets
 
@@ -24,7 +24,7 @@ Files in `log/` and `lost-world/` generally follow `YYYY-MM-DD-title.md`. Older 
 
 ### Changelog
 
-The current version is **V0.1 — Initial Archive**. It establishes the first Snoop repository structure, adds `observations/` for direct experience records, and makes `lost-world/` an independent archive category. Creative works, observations, and lost worlds are preserved as separate forms of records.
+The current version is **V0.2 — Reviewed Expansion**. It adds 15 human-reviewed records and clarifies the archive boundary: accessible records of direct experience belong in `observations/`, while stream-of-consciousness and metaphor-dense literary writing belong in `log/prose/`.
 
 See [ChangeLog.md](ChangeLog.md) for the full bilingual changelog.
 
@@ -44,7 +44,7 @@ See [ChangeLog.md](ChangeLog.md) for the full bilingual changelog.
 - `log/essays/` — 有明确结构的文章、分析与长篇思考
 - `log/prose/` — 散文、非虚构叙事与文学性文本
 - `log/poems/` — 诗歌与歌词
-- `observations/` — 按编号累积的观察记录
+- `observations/` — 清晰、易于理解并按编号累积的直接经验记录
 - `lost-world/` — 现实中已经不存在、但仍存在于记忆中的人、空间与世界；详见 [消逝世界说明](lost-world/lost-world-README.md)
 - `assets/` — 配套媒体与其他资源
 
@@ -54,6 +54,6 @@ See [ChangeLog.md](ChangeLog.md) for the full bilingual changelog.
 
 ### 更新日志
 
-当前版本为 **V0.1 — 初始档案**。该版本建立了 Snoop / 思脑谱 的初始仓库结构，新增 `observations/` 用于保存直接体验与观察记录，并将 `lost-world/` 设为独立的档案类别。创作作品、观察记录以及消失的世界作为不同类型的记录形式分别保存。
+当前版本为 **V0.2 — 审核扩展**。该版本新增 15 份经过人工审核的记录，并进一步明确分类边界：清晰易懂的直接经验归入 `observations/`，意识流和隐喻密集的文学性文章归入 `log/prose/`。
 
 完整的中英文更新日志请见 [ChangeLog.md](ChangeLog.md)。

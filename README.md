@@ -12,19 +12,19 @@ It exists to preserve how a person experiences the world, remembers what has pas
 
 The archive is organized as follows:
 
-- `log/notes/` — raw thoughts and thinking in progress
-- `log/essays/` — structured arguments and longer reflections
-- `log/prose/` — prose, nonfiction, and literary writing
-- `log/poems/` — poems and lyrics
+- `notes/` — raw thoughts and thinking in progress
+- `essays/` — structured arguments and longer reflections
+- `prose/` — prose, nonfiction, and literary writing
+- `poems/` — poems and lyrics
 - `observations/` — clear, accessible records of direct experience, numbered over time
 - `lost-world/` — places, people, and worlds that no longer exist in reality but remain in memory; see the [Lost World introduction](lost-world/lost-world-README.md)
 - `assets/` — supporting media and other assets
 
-Files in `log/` and `lost-world/` generally follow `YYYY-MM-DD-title.md`. Older works without an exact date may use `YYYY-title.md`. Files in `observations/` follow `NNNN-title.md`, with the date recorded at the end of each entry. Read chronologically to follow the changelog, or browse by form and subject. Earlier entries remain part of the archive; new understanding is added rather than written over them.
+Files in `notes/`, `essays/`, `prose/`, `poems/`, and `lost-world/` generally follow `YYYY-MM-DD-title.md`. Older works without an exact date may use `YYYY-title.md`. Files in `observations/` follow `NNNN-title.md`, with the date recorded at the end of each entry. Read chronologically to follow the changelog, or browse by form and subject. Earlier entries remain part of the archive; new understanding is added rather than written over them.
 
 ### Changelog
 
-The current version is **V0.2 — Reviewed Expansion**. It adds 15 human-reviewed records and clarifies the archive boundary: accessible records of direct experience belong in `observations/`, while stream-of-consciousness and metaphor-dense literary writing belong in `log/prose/`.
+The current version is **V0.2 — Reviewed Expansion**. It adds 15 human-reviewed records and clarifies the archive boundary: accessible records of direct experience belong in `observations/`, while stream-of-consciousness and metaphor-dense literary writing belong in `prose/`.
 
 See [ChangeLog.md](ChangeLog.md) for the full bilingual changelog.
 
@@ -40,20 +40,20 @@ See [ChangeLog.md](ChangeLog.md) for the full bilingual changelog.
 
 档案按以下结构组织：
 
-- `log/notes/` — 原始想法与思维过程
-- `log/essays/` — 有明确结构的文章、分析与长篇思考
-- `log/prose/` — 散文、非虚构叙事与文学性文本
-- `log/poems/` — 诗歌与歌词
+- `notes/` — 原始想法与思维过程
+- `essays/` — 有明确结构的文章、分析与长篇思考
+- `prose/` — 散文、非虚构叙事与文学性文本
+- `poems/` — 诗歌与歌词
 - `observations/` — 清晰、易于理解并按编号累积的直接经验记录
 - `lost-world/` — 现实中已经不存在、但仍存在于记忆中的人、空间与世界；详见 [消逝世界说明](lost-world/lost-world-README.md)
 - `assets/` — 配套媒体与其他资源
 
-`log/` 和 `lost-world/` 中的文件通常使用 `YYYY-MM-DD-title.md` 命名；没有准确日期的旧作可以使用 `YYYY-title.md`。
+`notes/`、`essays/`、`prose/`、`poems/` 和 `lost-world/` 中的文件通常使用 `YYYY-MM-DD-title.md` 命名；没有准确日期的旧作可以使用 `YYYY-title.md`。
 
 `observations/` 中的文件使用 `NNNN-title.md` 命名，日期记录在每篇正文末尾。可以按时间阅读，观察这份记录如何演变；也可以按文体与主题浏览。旧记录不会被新的理解覆盖，变化本身就是档案的一部分。
 
 ### 更新日志
 
-当前版本为 **V0.2 — 审核扩展**。该版本新增 15 份经过人工审核的记录，并进一步明确分类边界：清晰易懂的直接经验归入 `observations/`，意识流和隐喻密集的文学性文章归入 `log/prose/`。
+当前版本为 **V0.2 — 审核扩展**。该版本新增 15 份经过人工审核的记录，并进一步明确分类边界：清晰易懂的直接经验归入 `observations/`，意识流和隐喻密集的文学性文章归入 `prose/`。
 
 完整的中英文更新日志请见 [ChangeLog.md](ChangeLog.md)。

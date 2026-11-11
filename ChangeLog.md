@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Moved `notes/`, `essays/`, `prose/`, and `poems/` from `log/` to the repository root.
+
 ## V0.2 — Reviewed Expansion
 
 ### Added
@@ -33,6 +39,12 @@ preserving creative works, observations, and lost worlds as separate forms of re
 ---
 
 # 更新日志（Changelog）
+
+## 未发布（Unreleased）
+
+### 调整（Changed）
+
+- 将 `notes/`、`essays/`、`prose/` 和 `poems/` 从 `log/` 移至仓库根目录。
 
 ## V0.2 — 审核扩展（Reviewed Expansion）
 

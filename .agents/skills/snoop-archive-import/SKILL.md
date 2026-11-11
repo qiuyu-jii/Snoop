@@ -25,7 +25,7 @@ Prepare article imports for the Snoop repository and stop for user approval befo
 2. Use the note's own creation timestamp. Do not substitute the current time or a list-view relative date.
 3. Preserve original wording, capitalization, punctuation, typos, and paragraph order. Make only Markdown formatting changes.
 4. Write drafts under `<repo>/Temp/` before touching archive directories.
-5. For `log/` and `lost-world/` drafts:
+5. For `notes/`, `essays/`, `prose/`, `poems/`, and `lost-world/` drafts:
    - name files `YYYY-MM-DD-title.md`;
    - omit terminal sentence punctuation from filenames;
    - use `# Original title` as the first line;
@@ -43,13 +43,13 @@ Prepare article imports for the Snoop repository and stop for user approval befo
 Use the article's dominant function and the repository's current README definitions:
 
 - `observations/`: immediate, situated records of direct sensory, bodily, emotional, or mental experience that a general reader can understand without decoding dense metaphor or stream of consciousness. Require clear people, places, events, or feelings. Readability is mandatory, not optional.
-- `log/notes/`: raw notes, diary fragments, and thinking in progress without a primarily literary or argumentative form.
-- `log/essays/`: structured arguments, analysis, criticism, and sustained idea-driven reflections.
-- `log/prose/`: literary prose, narrative nonfiction, memoir, fiction, scene-driven writing, stream of consciousness, and metaphor-dense or deliberately opaque writing. Prefer this over `observations/` when direct experience is transformed into language that requires literary interpretation.
-- `log/poems/`: poetry and lyrics whose lineation is structurally important.
+- `notes/`: raw notes, diary fragments, and thinking in progress without a primarily literary or argumentative form.
+- `essays/`: structured arguments, analysis, criticism, and sustained idea-driven reflections.
+- `prose/`: literary prose, narrative nonfiction, memoir, fiction, scene-driven writing, stream of consciousness, and metaphor-dense or deliberately opaque writing. Prefer this over `observations/` when direct experience is transformed into language that requires literary interpretation.
+- `poems/`: poetry and lyrics whose lineation is structurally important.
 - `lost-world/`: records centered on a complete world, place, relationship, or scene that once existed but cannot be returned to.
 
-Create matching subdirectories inside `Temp/` and move each draft into its proposed destination. Do not classify by source folder alone. When two categories are plausible, choose the category that best describes why the piece exists and document the tradeoff. Apply this readability test before using `observations/`: if an ordinary reader must decode the language before understanding what happened or was felt, use `log/prose/` instead.
+Create matching subdirectories inside `Temp/` and move each draft into its proposed destination. Do not classify by source folder alone. When two categories are plausible, choose the category that best describes why the piece exists and document the tradeoff. Apply this readability test before using `observations/`: if an ordinary reader must decode the language before understanding what happened or was felt, use `prose/` instead.
 
 ## Write the review log
 
